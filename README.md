@@ -4,7 +4,7 @@ Este projeto utiliza o Cypress para automatizar testes de interface de usuário 
 
 ## Instalação
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
+1. Clone o repositório: `git clone https://github.com/WesleyCouti/teste-cypress.git`
 2. Instale as dependências: `npm install`
 
 ## Configuração das Variáveis de Ambiente
