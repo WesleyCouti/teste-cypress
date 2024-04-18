@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "cypress": "^13.7.3",
+    "dotenv": "^16.4.5",
+    "faker": "^5.5.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "dependencies": {
+    "cypress-plugin-api": "^2.11.1"
+  }
+}
